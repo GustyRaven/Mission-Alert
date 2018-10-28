@@ -2,7 +2,7 @@
 <div class="missionalerts-container"><div class="simple-container"><div class="simple-container-header"><div class="countdown" data-v-1f47cb1c=""><label class="countdown-label" data-v-1f47cb1c=""><span class="label" data-v-1f47cb1c="">
             Expires in
         </span><span class="display" data-v-1f47cb1c="">
-            4H 48M 10S 
+            4H 37M 37S 
         </span></label></div><div class="header-label">Mission Alerts</div></div><div class="simple-container-content"><div class="content-container"><div class="content-subheader">
                     Epic and Above Rewards
                 </div></div><div class="rewards-container"><div class="reward"><img src="https://assets.stormshield.one/tsmall/T-Items-MTX-L.png"><span class="power-level">19</span><!----><span class="reward-item fine">
